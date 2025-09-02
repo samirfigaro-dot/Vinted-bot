@@ -1,0 +1,5 @@
+streamlit
+requests
+pyvinted
+gspread
+python-telegram-bot
