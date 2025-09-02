@@ -1,5 +1,5 @@
 streamlit
 requests
-pyvinted
+git+https://github.com/xychelsea/pyvinted.git
 gspread
 python-telegram-bot
